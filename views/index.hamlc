@@ -1,0 +1,6 @@
+%html
+  %head
+    %title Test Page
+  %body
+    #content
+    %script(src="/js/test.cjsx")
