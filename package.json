@@ -1,5 +1,5 @@
 {
-  "name": "static_baseline",
+  "name": "node-pages",
   "version": "1.0.0",
   "description": "Template for a web project",
   "main": "src/main.coffee",
@@ -16,5 +16,8 @@
     "haml-coffee": "^1.14.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
   }
 }
